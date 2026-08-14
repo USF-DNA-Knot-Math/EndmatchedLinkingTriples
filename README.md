@@ -1,7 +1,7 @@
 # Endmatched Linking Triples
 The linking number is a useful knot invariant that can help measure chirality. We extend this knot-theoretic invariant and define a linking measure for directed embedded curves in space with endpoints. This repository contains functions to compute the aforementioned measure for a given set of directed embedded piecewise-linear curves with endpoints.
 
-ExampleComputation.nb contains a description of all the functions and a computation for a pair of curves in the tensegrity triangle model 3T12(PDB ID: 8SJM). All the functions can be found in functions.m
+ExampleComputation.nb contains a description of all the functions and a computation for a pair of curves in the tensegrity triangle model 3T12(PDB ID: 8SJM). All the functions can be found in functions.m, and coordinates.zip contains some sample coordinates from Tensegrity triangle data deposited in the PDB database.
 
 To compute for any desired list of piecewise linear curves: define the list of coordinates for the curves, say curve1, curve2, curve3 ... curven, and use the following function: 
 
