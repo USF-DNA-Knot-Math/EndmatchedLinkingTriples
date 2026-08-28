@@ -41,7 +41,7 @@ Cell[BoxData[{
  RowBox[{
   RowBox[{"NotebookEvaluate", "[", 
    RowBox[{
-    RowBox[{"NotebookDirectory", "[", "]"}], "<>", "\"\<functions.m\>\""}], 
+    RowBox[{"NotebookDirectory", "[", "]"}], "<>", "\"\<procedures.m\>\""}], 
    "]"}], ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"NotebookEvaluate", "[", 
