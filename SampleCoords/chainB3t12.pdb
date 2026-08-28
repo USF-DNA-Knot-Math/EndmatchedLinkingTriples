@@ -1,0 +1,80 @@
+SEQRES   1 A   31  DC  DA  DG  DC  DA  DT  DC  DG  DC  DC  DT  DG  DA
+SEQRES   2 A   31  DC  DA  DC  DA  DC  DG  DT  DG  DG  DA  DC  DA  DT
+SEQRES   3 A   31  DG  DC  DG  DA  DG
+SEQRES   1 B   31  DC  DA  DG  DC  DA  DT  DC  DG  DC  DC  DT  DG  DA
+SEQRES   2 B   31  DC  DA  DC  DA  DC  DG  DT  DG  DG  DA  DC  DA  DT
+SEQRES   3 B   31  DG  DC  DG  DA  DG
+SEQRES   1 C   19  DT  DG  DC  DT  DC  DG  DC  DA  DT  DG  DT  DG  DG
+SEQRES   2 C   19  DC  DG  DA  DT  DG  DC
+SEQRES   1 D   36  DT  DG  DT  DG  DT  DC  DA  DC  DC  DA  DC  DG  DT
+SEQRES   2 D   36  DG  DT  DG  DT  DC  DA  DC  DC  DA  DC  DG  DT  DG
+SEQRES   3 D   36  DT  DG  DT  DC  DA  DC  DC  DA  DC  DG
+SEQRES   1 E   31  DC  DA  DG  DC  DA  DT  DC  DG  DC  DC  DT  DG  DA
+SEQRES   2 E   31  DC  DA  DC  DA  DC  DG  DT  DG  DG  DA  DC  DA  DT
+SEQRES   3 E   31  DG  DC  DG  DA  DG
+SEQRES   1 G   19  DT  DG  DC  DT  DC  DG  DC  DA  DT  DG  DT  DG  DG
+SEQRES   2 G   19  DC  DG  DA  DT  DG  DC
+SEQRES   1 K   19  DT  DG  DC  DT  DC  DG  DC  DA  DT  DG  DT  DG  DG
+SEQRES   2 K   19  DC  DG  DA  DT  DG  DC
+CRYST1  162.319  162.319  109.158  90.00  90.00 120.00 R 3 :H                   
+ATOM     33  P   DA  B   2     107.428  -2.806 -18.360  1.001371.4           P
+ANISOU   33  P   DA  B   2   173651 173632 173791    150    -13     14       P
+ATOM     34  P   DG  B   3     109.063   0.163 -11.807  1.001377.0           P
+ANISOU   34  P   DG  B   3   174359 174344 174501    150    -15     15       P
+ATOM     35  P   DC  B   4     109.960   6.329  -8.347  1.001386.6           P
+ANISOU   35  P   DC  B   4   175575 175564 175718    150    -16     17       P
+ATOM     36  P   DA  B   5     109.963  13.649  -7.942  1.001354.5           P
+ANISOU   36  P   DA  B   5   171514 171504 171655    149    -18     18       P
+ATOM     37  P   DT  B   6     106.643  19.196 -10.605  1.001331.5           P
+ANISOU   37  P   DT  B   6   168600 168588 168736    145    -21     22       P
+ATOM     38  P   DC  B   7     101.822  21.848 -14.048  1.001307.9           P
+ANISOU   38  P   DC  B   7   165610 165593 165739    142    -24     25       P
+ATOM     39  P   DG  B   8      95.822  21.810 -17.577  1.001268.3           P
+ANISOU   39  P   DG  B   8   160604 160583 160726    138    -27     29       P
+ATOM     40  P   DC  B   9      89.566  19.141 -19.100  1.001209.4           P
+ANISOU   40  P   DC  B   9   153141 153119 153258    135    -31     33       P
+ATOM     41  P   DC  B  10      85.307  15.163 -16.120  1.001175.3           P
+ANISOU   41  P   DC  B  10   148823 148802 148936    132    -34     36       P
+ATOM     42  P   DT  B  11      82.049  13.266 -11.115  1.001243.7           P
+ANISOU   42  P   DT  B  11   157494 157476 157604    130    -37     40       P
+ATOM     43  P   DG  B  12      80.555  13.657  -5.013  1.001310.0           P
+ANISOU   43  P   DG  B  12   165887 165872 165995    129    -40     42       P
+ATOM     44  P   DA  B  13      80.489  16.601   1.433  1.001297.6           P
+ANISOU   44  P   DA  B  13   164318 164308 164426    128    -42     44       P
+ATOM     45  P   DC  B  14      82.576  21.956   5.333  1.001270.3           P
+ANISOU   45  P   DC  B  14   160856 160848 160966    128    -43     44       P
+ATOM     46  P   DA  B  15      82.811  28.736   4.707  1.001263.4           P
+ANISOU   46  P   DA  B  15   159982 159974 160090    127    -43     44       P
+ATOM     47  P   DC  B  16      80.028  34.875   1.410  1.001287.4           P
+ANISOU   47  P   DC  B  16   163392 162722 163040     -2      2    486       P
+ATOM     48  P   DA  B  17      75.797  37.486  -4.106  1.001361.8           P
+ANISOU   48  P   DA  B  17   172475 172494 172469    -47     60     49       P
+ATOM     49  P   DC  B  18      70.921  36.831  -9.960  1.001350.3           P
+ANISOU   49  P   DC  B  18   171013 171016 171028    -14     -3     -3       P
+ATOM     50  P   DG  B  19      63.766  34.163 -10.468  1.001378.8           P
+ANISOU   50  P   DG  B  19   174631 174633 174648    -17     -5     -5       P
+ATOM     51  P   DT  B  20      57.256  31.738  -7.615  1.001382.7           P
+ANISOU   51  P   DT  B  20   175123 175124 175142    -22     -8     -8       P
+ATOM     52  P   DG  B  21      53.176  30.321  -3.302  1.001329.7           P
+ANISOU   52  P   DG  B  21   168405 168405 168425    -25    -12    -11       P
+ATOM     53  P   DG  B  22      50.784  29.085   2.686  1.001305.1           P
+ANISOU   53  P   DG  B  22   165289 165288 165309    -28    -14    -14       P
+ATOM     54  P   DA  B  23      51.863  31.474   8.837  1.001287.1           P
+ANISOU   54  P   DA  B  23   163010 163009 163031    -30    -16    -16       P
+ATOM     55  P   DC  B  24      53.959  36.531  12.622  1.001289.9           P
+ANISOU   55  P   DC  B  24   163367 163367 163390    -34    -19    -19       P
+ATOM     56  P   DA  B  25      54.208  43.039  11.787  1.001394.0           P
+ANISOU   56  P   DA  B  25   176543 176546 176570    -40    -25    -24       P
+ATOM     57  P   DT  B  26      52.307  49.169   9.423  1.001413.8           P
+ANISOU   57  P   DT  B  26   179049 179056 179080    -48    -33    -31       P
+ATOM     58  P   DG  B  27      47.406  51.950   5.884  1.001367.7           P
+ANISOU   58  P   DG  B  27   173215 173223 173246    -55    -41    -38       P
+ATOM     59  P   DC  B  28      40.618  53.710   3.240  1.001369.9           P
+ANISOU   59  P   DC  B  28   173488 173498 173517    -63    -52    -48       P
+ATOM     60  P   DG  B  29      35.570  49.501   2.774  1.001384.5           P
+ANISOU   60  P   DG  B  29   175340 175345 175365    -64    -53    -51       P
+ATOM     61  P   DA  B  30      31.163  47.105   5.087  1.001411.2           P
+ANISOU   61  P   DA  B  30   178725 178727 178745    -66    -57    -56       P
+ATOM     62  P   DG  B  31      27.744  45.439   8.773  1.001418.8           P
+ANISOU   62  P   DG  B  31   179698 179697 179713    -68    -60    -61       P
+END

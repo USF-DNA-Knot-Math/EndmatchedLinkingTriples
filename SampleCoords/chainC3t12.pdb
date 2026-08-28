@@ -1,0 +1,57 @@
+SEQRES   1 A   31  DC  DA  DG  DC  DA  DT  DC  DG  DC  DC  DT  DG  DA
+SEQRES   2 A   31  DC  DA  DC  DA  DC  DG  DT  DG  DG  DA  DC  DA  DT
+SEQRES   3 A   31  DG  DC  DG  DA  DG
+SEQRES   1 B   31  DC  DA  DG  DC  DA  DT  DC  DG  DC  DC  DT  DG  DA
+SEQRES   2 B   31  DC  DA  DC  DA  DC  DG  DT  DG  DG  DA  DC  DA  DT
+SEQRES   3 B   31  DG  DC  DG  DA  DG
+SEQRES   1 C   19  DT  DG  DC  DT  DC  DG  DC  DA  DT  DG  DT  DG  DG
+SEQRES   2 C   19  DC  DG  DA  DT  DG  DC
+SEQRES   1 D   36  DT  DG  DT  DG  DT  DC  DA  DC  DC  DA  DC  DG  DT
+SEQRES   2 D   36  DG  DT  DG  DT  DC  DA  DC  DC  DA  DC  DG  DT  DG
+SEQRES   3 D   36  DT  DG  DT  DC  DA  DC  DC  DA  DC  DG
+SEQRES   1 E   31  DC  DA  DG  DC  DA  DT  DC  DG  DC  DC  DT  DG  DA
+SEQRES   2 E   31  DC  DA  DC  DA  DC  DG  DT  DG  DG  DA  DC  DA  DT
+SEQRES   3 E   31  DG  DC  DG  DA  DG
+SEQRES   1 G   19  DT  DG  DC  DT  DC  DG  DC  DA  DT  DG  DT  DG  DG
+SEQRES   2 G   19  DC  DG  DA  DT  DG  DC
+SEQRES   1 K   19  DT  DG  DC  DT  DC  DG  DC  DA  DT  DG  DT  DG  DG
+SEQRES   2 K   19  DC  DG  DA  DT  DG  DC
+CRYST1  162.319  162.319  109.158  90.00  90.00 120.00 R 3 :H                   
+ATOM     65  P   DG  C   2      34.917  62.059  20.006  1.001554.1           P
+ANISOU   65  P   DG  C   2   196829 196829 196829      0      0      0       P
+ATOM     66  P   DC  C   3      38.552  56.207  20.675  1.001491.9           P
+ANISOU   66  P   DC  C   3   188957 188957 188957      0      0      0       P
+ATOM     67  P   DT  C   4      38.428  50.067  22.093  1.001385.9           P
+ANISOU   67  P   DT  C   4   175535 175535 175535      0      0      0       P
+ATOM     68  P   DC  C   5      38.252  43.929  20.687  1.001340.7           P
+ANISOU   68  P   DC  C   5   169812 169812 169812      0      0      0       P
+ATOM     69  P   DG  C   6      36.167  38.745  16.499  1.001333.6           P
+ANISOU   69  P   DG  C   6   168903 168903 168903      0      0      0       P
+ATOM     70  P   DC  C   7      36.474  36.583  11.085  1.001336.8           P
+ANISOU   70  P   DC  C   7   169307 169307 169307      0      0      0       P
+ATOM     71  P   DA  C   8      36.517  37.983   3.990  1.001367.3           P
+ANISOU   71  P   DA  C   8   173182 173182 173182      0      0      0       P
+ATOM     72  P   DT  C   9      39.961  40.534  -0.918  1.001350.9           P
+ANISOU   72  P   DT  C   9   171101 171101 171101      0      0      0       P
+ATOM     73  P   DG  C  10      45.577  42.019  -3.228  1.001265.2           P
+ANISOU   73  P   DG  C  10   160246 160246 160246      0      0      0       P
+ATOM     74  P   DT  C  11      51.796  45.659  -2.246  1.001232.7           P
+ANISOU   74  P   DT  C  11   156132 156132 156132      0      0      0       P
+ATOM     75  P   DG  C  12      52.616  49.406   0.727  1.001196.5           P
+ANISOU   75  P   DG  C  12   151539 151539 151539      0      0      0       P
+ATOM     76  P   DG  C  13      48.073  52.202   0.019  1.001197.7           P
+ANISOU   76  P   DG  C  13   151698 151698 151698      0      0      0       P
+ATOM     77  P   DC  C  14      43.604  54.678  -4.294  1.001255.4           P
+ANISOU   77  P   DC  C  14   159008 159008 159008      0      0      0       P
+ATOM     78  P   DG  C  15      41.056  57.241  -9.609  1.001307.7           P
+ANISOU   78  P   DG  C  15   165628 165628 165628      0      0      0       P
+ATOM     79  P   DA  C  16      41.127  57.305 -16.882  1.001315.1           P
+ANISOU   79  P   DA  C  16   166568 166568 166568      0      0      0       P
+ATOM     80  P   DT  C  17      42.219  52.315 -21.506  1.001326.6           P
+ANISOU   80  P   DT  C  17   168022 168022 168022      0      0      0       P
+ATOM     81  P   DG  C  18      43.743  46.442 -23.294  1.001354.4           P
+ANISOU   81  P   DG  C  18   171539 171539 171539      0      0      0       P
+ATOM     82  P   DC  C  19      42.479  40.052 -21.760  1.001441.8           P
+ANISOU   82  P   DC  C  19   182606 182606 182606      0      0      0       P
+TER      83      DC  C  19
+END

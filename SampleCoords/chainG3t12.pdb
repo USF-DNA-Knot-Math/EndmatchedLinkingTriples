@@ -1,0 +1,58 @@
+SEQRES   1 A   31  DC  DA  DG  DC  DA  DT  DC  DG  DC  DC  DT  DG  DA
+SEQRES   2 A   31  DC  DA  DC  DA  DC  DG  DT  DG  DG  DA  DC  DA  DT
+SEQRES   3 A   31  DG  DC  DG  DA  DG
+SEQRES   1 B   31  DC  DA  DG  DC  DA  DT  DC  DG  DC  DC  DT  DG  DA
+SEQRES   2 B   31  DC  DA  DC  DA  DC  DG  DT  DG  DG  DA  DC  DA  DT
+SEQRES   3 B   31  DG  DC  DG  DA  DG
+SEQRES   1 C   19  DT  DG  DC  DT  DC  DG  DC  DA  DT  DG  DT  DG  DG
+SEQRES   2 C   19  DC  DG  DA  DT  DG  DC
+SEQRES   1 D   36  DT  DG  DT  DG  DT  DC  DA  DC  DC  DA  DC  DG  DT
+SEQRES   2 D   36  DG  DT  DG  DT  DC  DA  DC  DC  DA  DC  DG  DT  DG
+SEQRES   3 D   36  DT  DG  DT  DC  DA  DC  DC  DA  DC  DG
+SEQRES   1 E   31  DC  DA  DG  DC  DA  DT  DC  DG  DC  DC  DT  DG  DA
+SEQRES   2 E   31  DC  DA  DC  DA  DC  DG  DT  DG  DG  DA  DC  DA  DT
+SEQRES   3 E   31  DG  DC  DG  DA  DG
+SEQRES   1 G   19  DT  DG  DC  DT  DC  DG  DC  DA  DT  DG  DT  DG  DG
+SEQRES   2 G   19  DC  DG  DA  DT  DG  DC
+SEQRES   1 K   19  DT  DG  DC  DT  DC  DG  DC  DA  DT  DG  DT  DG  DG
+SEQRES   2 K   19  DC  DG  DA  DT  DG  DC
+CRYST1  162.319  162.319  109.158  90.00  90.00 120.00 R 3 :H                   
+
+ATOM    154  P   DG  G   2     117.446  79.304  20.006  1.001554.1           P
+ANISOU  154  P   DG  G   2   196829 196829 196829      0      0      0       P
+ATOM    155  P   DC  G   3     110.560  79.082  20.675  1.001491.9           P
+ANISOU  155  P   DC  G   3   188957 188957 188957      0      0      0       P
+ATOM    156  P   DT  G   4     105.305  82.259  22.093  1.001385.9           P
+ANISOU  156  P   DT  G   4   175535 175535 175535      0      0      0       P
+ATOM    157  P   DC  G   5     100.077  85.481  20.687  1.001340.7           P
+ANISOU  157  P   DC  G   5   169812 169812 169812      0      0      0       P
+ATOM    158  P   DG  G   6      96.630  89.878  16.499  1.001333.6           P
+ANISOU  158  P   DG  G   6   168903 168903 168903      0      0      0       P
+ATOM    159  P   DC  G   7      94.604  90.693  11.085  1.001336.8           P
+ANISOU  159  P   DC  G   7   169307 169307 169307      0      0      0       P
+ATOM    160  P   DA  G   8      95.795  89.956   3.990  1.001367.3           P
+ANISOU  160  P   DA  G   8   173182 173182 173182      0      0      0       P
+ATOM    161  P   DT  G   9      96.282  85.698  -0.918  1.001350.9           P
+ANISOU  161  P   DT  G   9   171101 171101 171101      0      0      0       P
+ATOM    162  P   DG  G  10      94.761  80.092  -3.228  1.001265.2           P
+ANISOU  162  P   DG  G  10   160246 160246 160246      0      0      0       P
+ATOM    163  P   DT  G  11      94.803  72.886  -2.246  1.001232.7           P
+ANISOU  163  P   DT  G  11   156132 156132 156132      0      0      0       P
+ATOM    164  P   DG  G  12      97.638  70.303   0.727  1.001196.5           P
+ANISOU  164  P   DG  G  12   151539 151539 151539      0      0      0       P
+ATOM    165  P   DG  G  13     102.331  72.839   0.019  1.001197.7           P
+ANISOU  165  P   DG  G  13   151698 151698 151698      0      0      0       P
+ATOM    166  P   DC  G  14     106.710  75.471  -4.294  1.001255.4           P
+ANISOU  166  P   DC  G  14   159008 159008 159008      0      0      0       P
+ATOM    167  P   DG  G  15     110.204  76.396  -9.609  1.001307.7           P
+ANISOU  167  P   DG  G  15   165628 165628 165628      0      0      0       P
+ATOM    168  P   DA  G  16     110.224  76.303 -16.882  1.001315.1           P
+ANISOU  168  P   DA  G  16   166568 166568 166568      0      0      0       P
+ATOM    169  P   DT  G  17     105.356  77.852 -21.506  1.001326.6           P
+ANISOU  169  P   DT  G  17   168022 168022 168022      0      0      0       P
+ATOM    170  P   DG  G  18      99.508  79.469 -23.294  1.001354.4           P
+ANISOU  170  P   DG  G  18   171539 171539 171539      0      0      0       P
+ATOM    171  P   DC  G  19      94.606  83.758 -21.760  1.001441.8           P
+ANISOU  171  P   DC  G  19   182606 182606 182606      0      0      0       P
+TER     173      DT  K   1
+END
