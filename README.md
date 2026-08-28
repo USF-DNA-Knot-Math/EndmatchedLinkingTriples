@@ -15,18 +15,23 @@ The 3-tuple **$(C_1, C_2, \epsilon)$** is the **End-matched Linking Triple**.
 For two endpoints on each curve, there are eight such projections. Half of these projections are redundant since a projection projecting $\iota_a \in a$ onto $\iota_b \in b$ will give the same sign of crossings as the projection projecting $\iota_b$ onto $\iota_a$. So, we consider the convention that the endpoint of the second curve is projected onto the endpoint of the first curve. Therefore, for each pair of curves we have four End-matched projections, and hence four End-matched Linking Triples.
 
 ## Tutorial
+**ExampleComputation.nb** contains a description of all the procedures and a sample computation for a pair of curves in the **tensegrity triangle model 3T12(PDB ID: 8SJM)**.
 
-- **ExampleComputation.nb** contains a description of all the procedures and a sample computation for a pair of curves in the **tensegrity triangle model 3T12(PDB ID: 8SJM)**.
 - All the procedures can be found in **procedures.m**.
 - **SampleCoords\Coord.nb** contains some **sample coordinates** extracted from Tensegrity triangle data deposited in the PDB database.
 
-To view the **intermediate steps** in the sample computation: **swap curve1 and curve2 with your coordinates** in ExampleComputation.nb, and **choose the desired end-matched projection** by changing the values of p1 and p2 in {ini1,ini2,term1,term2}. Running this will **generate the projections**, the **crossing information**, and finally the End-matched Linking Triples for the pair {curve1, curve2}
+To view the **intermediate steps** in the sample computation:
+1. **Swap curve1 and curve2** in **ExampleComputation.nb** with your desired coordinates. 
+2. **Choose the desired end-matched projection** by changing the values of **p1 and p2** among {ini1,ini2,term1,term2}.
+3.  Running all cells will **generate the end-matched projection**, the **crossing information**, and finally the **End-matched Linking Triples** for the pair {curve1, curve2}
 
-To compute for any desired list of piecewise linear curves: define the list of coordinates for the curves, say curve1, curve2, curve3 ... curven, and use the following procedure: 
+To compute for **any desired list** of piecewise linear curves: 
+1. Define the **list of coordinates** for the curves, say curve1, curve2, curve3 ... curven
+2. Then, use the following procedure:
 
-**Computelinkingtriplesendmatched[{curve_1, curve_2, ..., curve_n}]**  
+    **Computelinkingtriplesendmatched[{curve_1, curve_2, ..., curve_n}]**
 
-This will return the end-matched linking triples for all four end-matchings and for all the curves taken pairwise.
+    This will return the **end-matched linking triples for all four end-matchings** and for all the **curves taken pairwise**.
 
 ## Acknowledgements
 This work was supported by NSF grants DMS-2054321, CCF-2505771, and CCF-2107267.
