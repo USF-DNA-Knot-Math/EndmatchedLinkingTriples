@@ -33,5 +33,10 @@ To compute for **any desired list** of piecewise linear curves:
 
     This will return the **end-matched linking triples for all four end-matchings** and for all the **curves taken pairwise**.
 
+## Citation
+If you use **EndmatchedLinkingTriples** in your research, please cite the following:
+
+N. Jonoska, Y. Ohayon, V. Pham, B. Saini, M. Saito, R. Sha, S. Vecchioni, K. Woloszyn, Levels of Chirality in DNA Nanostructures (to appear) UCNC 2026 proceedings
+
 ## Acknowledgements
 This work was supported by NSF grants DMS-2054321, CCF-2505771, and CCF-2107267.
