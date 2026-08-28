@@ -1,0 +1,1 @@
+This folder contains sample coordinates for piecewise linear curves extracted from Tensegrity triangle data deposited in the PDB database.
